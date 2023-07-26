@@ -1,1 +1,1 @@
-[`Check out deployed version`](https://nextjs.org/docs/basic-features/font-optimization)
+[`Check out deployed version`](https://car-hub-nine-mu.vercel.app/)
